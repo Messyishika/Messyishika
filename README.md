@@ -1,6 +1,6 @@
 ![MasterHead](https://mypat.in/assets/img/s3-images/animation_img_1.gif)
 <h1 align="center">Hi 👋, I'm Ishika</h1>
-<img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jbmwy62epkaodtesdqcekekx7v4hb08zl851g51w&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jbmwy62epkaodtesdqcekekx7v4hb08zl851g51w&rid=giphy.gif&ct=g">
 
 <h3 align="center">A passionate computer science sophomore from India who loves creating and exploring new things</h3>
 
