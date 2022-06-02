@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Data Analysis using R**
+- 🌱 I’m currently learning **Machine Learning(NLP and Text Mining)**
 
 - 📫 How to reach me **ishikagarg1947@gmail.com**
 
