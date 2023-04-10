@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ishika</h1>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jbmwy62epkaodtesdqcekekx7v4hb08zl851g51w&rid=giphy.gif&ct=g">
 
-<h3 align="center">A passionate computer science sophomore from India who loves creating and exploring new things</h3>
+<h3 align="center">A passionate computer science pre-final year student from India who loves creating and exploring new things.A tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=messyishika&label=Profile%20views&color=0e75b6&style=flat" alt="messyishika" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Web development-Online courier tracking system**
 
-- 🌱 I’m currently learning **Machine Learning(NLP and Text Mining)**
+- 🌱 I’m currently learning **Web developement**
 
 - 📫 How to reach me **ishikagarg1947@gmail.com**
 
