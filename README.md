@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ishikagarg1947@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dhYdbpY1ofjH3x_vTjAHiwAdSop0Phno/view?usp=sharing](https://drive.google.com/file/d/1dhYdbpY1ofjH3x_vTjAHiwAdSop0Phno/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1dhYdbpY1ofjH3x_vTjAHiwAdSop0Phno/view?usp=sharing)
 
 - ⚡ Fun fact **I love cooking and travelling**
 
